@@ -1,2 +1,2 @@
-# bs-ac-practice
+# Binary Studio Academy practice
 BS Academy homework
